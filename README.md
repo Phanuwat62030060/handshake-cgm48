@@ -1,3 +1,3 @@
 # handshake-cgm48
 punch cgm48
-## satchan
+## satchan Bnk48
